@@ -29,7 +29,7 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="90dp"
-                    android:src="@drawable/news" />
+                    android:src="@drawable/ic_news" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -59,7 +59,7 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="90dp"
-                    android:src="@drawable/business_news_logo"/>
+                    android:src="@drawable/ic_financial_profit"/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -105,7 +105,7 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="90dp"
-                    android:src="@drawable/currency"/>
+                    android:src="@drawable/ic_money"/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -136,7 +136,7 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="90dp"
-                    android:src="@drawable/cryptocurreny"/>
+                    android:src="@drawable/ic_bitcoin"/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -168,7 +168,7 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="90dp"
-                    android:src="@drawable/weather_news_logo"/>
+                    android:src="@drawable/ic_cloudy"/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -198,7 +198,7 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="90dp"
-                    android:src="@drawable/world_tour"/>
+                    android:src="@drawable/ic_freight"/>
 
                 <TextView
                     android:layout_width="wrap_content"
