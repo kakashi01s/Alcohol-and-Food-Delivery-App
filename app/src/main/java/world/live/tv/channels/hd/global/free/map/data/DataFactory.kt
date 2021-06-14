@@ -7,12 +7,13 @@ import retrofit2.converter.gson.GsonConverterFactory
 class DataFactory {
 
 
-    val URL_RENT_ALL_APPS = BASE_URL + "116jsqQvvC7uI1nIY5aEwTqomC7FNtpuU-lonximWNTk/values/Sheet1!A2:E/"
+    //val URL_RENT_ALL_APPS = BASE_URL + "116jsqQvvC7uI1nIY5aEwTqomC7FNtpuU-lonximWNTk/values/Sheet1!A2:F/"
+    val URL_RENT_ALL_APPS = BASE_URL + "14g4BN3KoIv4UP5qvwkeMpoEW7uUJbIBbsrn3Hf73aMQ/values/Sheet1!A2:F/"
     val URL_RENT_CAROUSEL_IMAGES = BASE_URL + "1y4DpcPUUieSCPEhZU8PYNhBZBjKQnNoO5qRtfs6mV68/values/Sheet1!A2:E/"
     val URL_RENT_EXPLORER_IMAGES = BASE_URL + "12rmpFWFMNdIhxHVwfko4l-rc9NnkQOU3FQL3R_UtEkc/values/Sheet1!A2:E/"
 
     val URL_NEWS = BASE_URL + "1EXRh07IGeiXOG1JUWtemGp6xtCXnwVEQrSFhesiX0kw/values/Sheet1!A2:E/"
-    val URL_STOCK = BASE_URL + "1RG5gjNxHgaex0jBzneylojV94_2Nx25Qozy9zF9u5IA/values/Sheet1!A2:E/"
+    val URL_STOCK = BASE_URL + "1RG5gjNxHgaex0jBzneylojV94_2Nx2 5Qozy9zF9u5IA/values/Sheet1!A2:E/"
     val URL_CURRENCY = BASE_URL + "1yeQwlsfcc_3hgLEEULbD7IK4FtCWfFwbDxjao8-xGQo/values/Sheet1!A2:E/"
     val URL_CRYPTOCURRENCY = BASE_URL + "1KpGkUw7JXDMuYg3KsS6sQhm3AZ1vuIUlDM3-UPpUcuU/values/Sheet1!A2:E/"
     val URL_WEATHER_NEWS = BASE_URL + "1fB3Yy3i6izQybhHJhbZdZsFKnIi7KS4MqAVdHrxLCc8/values/Sheet1!A2:E/"

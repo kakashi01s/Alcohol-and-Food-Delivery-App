@@ -354,7 +354,8 @@ class MainActivity : BaseActivity(), AllAppsItemClickListener<List<String>>,
             if (bool) {
                 val browserIntent = Intent(Intent.ACTION_VIEW, Uri.parse(item[2]))
                 startActivity(browserIntent)
-            } else {
+            }
+            else {
                 val intent: Intent = Intent(this, WebActivity::class.java)
                 intent.putExtra("title", item[1])
                 intent.putExtra("url", item[2])
@@ -363,6 +364,8 @@ class MainActivity : BaseActivity(), AllAppsItemClickListener<List<String>>,
                 if (searchTxt != null) {
                     intent.putExtra("search_url", item[5] + "$searchTxt")
                 }
+
+
 
                 startActivity(intent)
             }
@@ -375,6 +378,7 @@ class MainActivity : BaseActivity(), AllAppsItemClickListener<List<String>>,
             if (searchTxt != null) {
                 intent.putExtra("search_url", item[5] + "$searchTxt")
             }
+
 
             startActivity(intent)
         }

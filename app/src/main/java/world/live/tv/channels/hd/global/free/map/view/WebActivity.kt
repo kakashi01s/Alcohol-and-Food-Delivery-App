@@ -435,13 +435,6 @@ class WebActivity : AppCompatActivity() {
     @SuppressLint("ResourceType")
     fun loadWebSplash() {
 
-        if (Build.VERSION.SDK_INT >= 21) {
-            val window = this.window
-            window.addFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS)
-            window.clearFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS)
-            window.setStatusBarColor(Color.parseColor(color))
-        }
-
 
         if (color != null) {
             rlWebSplash!!.setBackgroundColor(Color.parseColor(color))
