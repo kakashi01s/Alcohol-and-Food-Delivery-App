@@ -7,9 +7,46 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:594414316892:android:90dd620ce3636abf5aa599",
+        "mobilesdk_app_id": "1:594414316892:android:42cab5ff46939c0b5aa599",
         "android_client_info": {
-          "package_name": "world.live.tv.channels.hd.global.free.online.guide.map"
+          "package_name": "global.tv.channel.live.streaming.free.online.social.food.shopping.watch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594414316892-r8e07m869k5f2dbjnlo26o1ntjap1351.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "global.tv.channel.live.streaming.free.online.social.food.shopping.watch",
+            "certificate_hash": "0e9a81e81b75b4654c7c98887fb3b5760ae00d44"
+          }
+        },
+        {
+          "client_id": "594414316892-r0kk23gkmio5m7142di73riqnjc6j49n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCANMG2wzSKUeM8AbqQ14Zj48VK5-cBQzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594414316892-r0kk23gkmio5m7142di73riqnjc6j49n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594414316892:android:d53d25f4e106d4f65aa599",
+        "android_client_info": {
+          "package_name": "world.live.TV.channels.HD.global.free.online.guide.map"
         }
       },
       "oauth_client": [

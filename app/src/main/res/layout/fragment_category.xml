@@ -105,12 +105,12 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="90dp"
-                    android:src="@drawable/ic_money"/>
+                    android:src="@drawable/food"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="35dp"
-                    android:text="Currency"
+                    android:text="Food"
                     android:textSize="14sp"
                     android:textStyle="bold"
                     android:gravity="center"
@@ -136,12 +136,12 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="90dp"
-                    android:src="@drawable/ic_bitcoin"/>
+                    android:src="@drawable/shop"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="35dp"
-                    android:text="Cryptocurrency"
+                    android:text="Shopping"
                     android:textSize="14sp"
                     android:textStyle="bold"
                     android:layout_marginTop="10dp"/>
@@ -168,12 +168,12 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="90dp"
-                    android:src="@drawable/ic_cloudy"/>
+                    android:src="@drawable/social"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="35dp"
-                    android:text="Weather News"
+                    android:text="Social Media"
                     android:textSize="14sp"
                     android:textStyle="bold"
                     android:layout_marginTop="10dp"/>
@@ -198,12 +198,12 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="90dp"
-                    android:src="@drawable/ic_freight"/>
+                    android:src="@drawable/deals"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="35dp"
-                    android:text="World Tour"
+                    android:text="Deals"
                     android:textSize="14sp"
                     android:textStyle="bold"
                     android:layout_marginTop="10dp"/>

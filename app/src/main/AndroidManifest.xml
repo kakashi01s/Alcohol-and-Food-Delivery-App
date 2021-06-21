@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="world.live.tv.channels.hd.global.free.online.guide.map">
-
+    package="global.tv.channel.live.streaming.free.online.social.food.shopping">
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -10,7 +9,7 @@
     <uses-permission android:name="android.permission.WAKE_LOCK" />
 
     <application
-        android:name="world.live.tv.channels.hd.global.free.online.guide.map.Singleton"
+        android:name="global.tv.channel.live.streaming.free.online.social.food.shopping.watch"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -18,7 +17,7 @@
         android:networkSecurityConfig="@xml/network_security_config"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="world.live.tv.channels.hd.global.free.online.guide.map.view.SplashActivity">
+        <activity android:name="global.tv.channel.live.streaming.free.online.social.food.shopping.view.SplashActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -26,11 +25,11 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="world.live.tv.channels.hd.global.free.online.guide.map.view.WebActivity"
+            android:name="global.tv.channel.live.streaming.free.online.social.food.shopping.view.WebActivity"
             android:screenOrientation="portrait"
             android:usesCleartextTraffic="true"
             android:windowSoftInputMode="adjustPan" />
-        <activity android:name="world.live.tv.channels.hd.global.free.online.guide.map.view.MainActivity" />
+        <activity android:name="global.tv.channel.live.streaming.free.online.social.food.shopping.view.MainActivity" />
 
         <uses-library
             android:name="org.apache.http.legacy"
