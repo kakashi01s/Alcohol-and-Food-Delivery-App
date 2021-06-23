@@ -1,70 +1,41 @@
 {
   "project_info": {
-    "project_number": "594414316892",
-    "project_id": "global-tv-channels",
-    "storage_bucket": "global-tv-channels.appspot.com"
+    "project_number": "4755824283",
+    "project_id": "alcohol-and-food-delivery",
+    "storage_bucket": "alcohol-and-food-delivery.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:594414316892:android:42cab5ff46939c0b5aa599",
+        "mobilesdk_app_id": "1:4755824283:android:30668253a0769248f9b03e",
         "android_client_info": {
-          "package_name": "global.tv.channel.live.streaming.free.online.social.food.shopping.watch"
+          "package_name": "alcohol.drink.liquor.delivery.online.world.beer.wine.whisky.rum.tester"
         }
       },
       "oauth_client": [
         {
-          "client_id": "594414316892-r8e07m869k5f2dbjnlo26o1ntjap1351.apps.googleusercontent.com",
+          "client_id": "4755824283-09vivb6eg26sjl2446uttmtpc3o99qhh.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "global.tv.channel.live.streaming.free.online.social.food.shopping.watch",
+            "package_name": "alcohol.drink.liquor.delivery.online.world.beer.wine.whisky.rum.tester",
             "certificate_hash": "0e9a81e81b75b4654c7c98887fb3b5760ae00d44"
           }
         },
         {
-          "client_id": "594414316892-r0kk23gkmio5m7142di73riqnjc6j49n.apps.googleusercontent.com",
+          "client_id": "4755824283-bs1cofc6t8k45imjae68joblaq1tu2c2.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCANMG2wzSKUeM8AbqQ14Zj48VK5-cBQzI"
+          "current_key": "AIzaSyCc8a7AqIvfd2aYUcdu4jeLNSX1z98q9VU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "594414316892-r0kk23gkmio5m7142di73riqnjc6j49n.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:594414316892:android:d53d25f4e106d4f65aa599",
-        "android_client_info": {
-          "package_name": "world.live.TV.channels.HD.global.free.online.guide.map"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "594414316892-r0kk23gkmio5m7142di73riqnjc6j49n.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCANMG2wzSKUeM8AbqQ14Zj48VK5-cBQzI"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "594414316892-r0kk23gkmio5m7142di73riqnjc6j49n.apps.googleusercontent.com",
+              "client_id": "4755824283-bs1cofc6t8k45imjae68joblaq1tu2c2.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

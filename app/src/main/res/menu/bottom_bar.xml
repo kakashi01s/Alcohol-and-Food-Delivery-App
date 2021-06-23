@@ -22,7 +22,7 @@
         android:orderInCategory="3"
         android:iconTint="@color/black_50"
         app:exb_color="#FFF"
-        android:title="Deals" />
+        android:title="Map" />
 
     <item
         android:id="@+id/id_bookmark"
